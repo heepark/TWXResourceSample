@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <ExtensionPackages>
+        <ExtensionPackage dependsOn="" description="" minimumThingWorxVersion="8.3.0" name="TWXSimpleParser" packageVersion="1.0.7" vendor="">
+            <JarResources>
+                <FileResource description="" file="twxsimpleparser.jar" type="JAR"/>
+            </JarResources>
+        </ExtensionPackage>
+    </ExtensionPackages>
+    <Resources>
+        <Resource aspect.isCreatable="false" aspect.isEditableExtensionObject="true" className="BlobParser" description="" name="BlobParser"/>
+    </Resources>
+</Entities>
